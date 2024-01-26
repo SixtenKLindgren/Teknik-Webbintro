@@ -15,8 +15,12 @@ main {
 list-style: none;
 padding: 0;
 display: flex;
-gap: 1rem;    
+gap: 1rem;  
 }
 img {
     max-width: 100%;
+}
+
+a {
+  color: rgb(255, 255, 255);
 }
