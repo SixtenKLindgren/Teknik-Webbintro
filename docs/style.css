@@ -6,24 +6,26 @@ background-color: rgb(70, 70, 70);
 }
 
 main {
-    max-width: 60rem;
-    margin-inline: auto;
-    padding: 2rem;
+  max-width: 60rem;
+  margin-inline: auto;
+  padding: 2rem;
   }
 
 .navigation {
-list-style: none;
-padding: 0;
-display: flex;
-gap: 1rem;  
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;  
 }
 img {
-    max-width: 100%;
+  max-width: 100%;
+  padding-top: 70px;
 }
 
 a {
   color: rgb(255, 255, 255);
 }
+
 header {
-position:fixed
+  position:fixed
 }
